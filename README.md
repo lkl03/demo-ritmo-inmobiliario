@@ -1,2 +1,7 @@
-# demo-ritmo-inmobiliario
-Demo web para Ritmo Inmobiliario — diseñada por eterlab.
+# Ritmo Inmobiliario
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
